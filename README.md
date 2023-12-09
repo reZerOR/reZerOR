@@ -2,9 +2,9 @@
 
 ## 🔍 About Me
 
-- 🔭 I’m currently working on **React js, Tailwind, Node js, Mongodb etc.**
+- 🔭 I’m currently working on **React js, Tailwind, Node js, MongoDB etc.**
 - 🌱 I’m currently learning **Next js.**
-- 👯 I’m looking to collaborate on **team based mern stack development project.**
+- 👯 I’m looking to collaborate on **team-based MERN stack development project.**
 - 🤔 I’m looking for help with **backend development**
 - 💬 Ask me about **React js**
 - 📫 How to reach me: **gkraihan14k@gmail.com**
