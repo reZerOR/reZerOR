@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Golam Kibria Raihan
+
+![Banner](Md.%20Golam%20Kibria%20Raihan.gif)
 
 <!--
 **reZerOR/reZerOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reZerOR&theme=great-gatsby&hide_border=true&border_radius=00&date_format=j%20M%5B%20Y%5D&currStreakNum=000000&background=45%2CEDFFADFD%2CFFDD00&border=EB5454&stroke=000000&ring=FF9607&fire=EB0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=E45151&dates=000000&excludeDaysLabel=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reZerOR&theme=great-gatsby&hide_border=true&border_radius=00&date_format=j%20M%5B%20Y%5D&currStreakNum=F0DE36&background=45%2C000000FD%2C000000FB&border=EB5454&stroke=F0DE36&ring=FF9607&fire=EB0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=E45151&dates=F0DE36&excludeDaysLabel=F0DE36)](https://git.io/streak-stats)
   
 </div>
-
