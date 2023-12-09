@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reZerOR&theme=great-gatsby&hide_border=true&border_radius=00&date_format=j%20M%5B%20Y%5D&currStreakNum=FFE900&background=45%2C1F1F1C2C%2CFFDD00&border=EB5454&stroke=FFFD09&ring=FFDB04)](https://git.io/streak-stats)
   
-</p>
+</div>
 
